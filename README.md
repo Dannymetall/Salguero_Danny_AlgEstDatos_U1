@@ -135,7 +135,6 @@ Permite:
 El proyecto incluye casos de prueba mediante:
 - main.py
 - datos_prueba.py
-- 
 Además, la interfaz gráfica permite cargar automáticamente dichos datos para verificar el funcionamiento de las tres estructuras.
 ---
 
